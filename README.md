@@ -22,10 +22,10 @@
 </p>
 
 <p align="left">
-<a href="mailto:jprp17@live.com" alt="Gmail">
+<a href="mailto:jprp17@live.com" alt="Outlook">
 <img src="https://img.shields.io/badge/-jprp17@live.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=jprp17@live.com" /></a>
   
-<a href="joaopaulorpereira" alt="Linkedin">
+<a href="https://www.linkedin.com/in/joaopaulorpereira" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Joao%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulorpereira" /></a>
 
 </p>

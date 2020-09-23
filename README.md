@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/-jprp17@live.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=jprp17@live.com" /></a>
   
 <a href="joaopaulorpereira" alt="Linkedin">
-<img src="https://img.shields.io/badge/-João%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulorpereira" /></a>
+<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulorpereira" /></a>
 
 </p>

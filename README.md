@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  Olá, meu nome é João Paulo sou <strong>Desenvolvedor FullStack</strong> que utiliza atualmente a linguagem javascript para resolução de problemas.<strong>UI Designer</strong>.<br>
+  Olá, meu nome é João Paulo sou <strong>Desenvolvedor FullStack</strong> que utiliza atualmente a linguagem javascript para resolução de problemas.<br>
   Estou cursando Engenharia Química - PUC/MG, contudo descobri no desenvolvimento web a posibilidade de sempre estar aprendendo e buscando soluções através da tecnologia.
 </p>
 

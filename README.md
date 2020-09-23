@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, Javascript, ReactJS, Node.js.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, Javascript, ReactJS</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🔥 Pretende aprender: <strong>Angular, Vue.JS, React Native, TypeScript, Node.JS e UX Design.</strong>
+  🔥 Pretende aprender: <strong>TypeScript</strong>
 </p>
 
 <p align="left">
@@ -22,10 +22,10 @@
 </p>
 
 <p align="left">
-<a href="mailto:iuricodebrasil@gmail.com" alt="Gmail">
+<a href="mailto:jprp17@live.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-jprp17@live.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=jprp17@live.com" /></a>
   
-<a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulorpereira" /></a>
+<a href="joaopaulorpereira" alt="Linkedin">
+<img src="https://img.shields.io/badge/-João%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulorpereira" /></a>
 
 </p>
